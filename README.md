@@ -1,6 +1,3 @@
-# RHC_OA_mobile_robots
-
-
 # Waypoint Tracking with Obstacle Avoidance (WPT-OA) algorithm for mobile robots 
 Code developed for the work published in "C. Tiriolo, G. Franzè, W. Lucia -  An Obstacle-Avoidance Receding Horizon Control Scheme for Constrained Differential-Drive Robot via Dynamic Feedback Linearization - ACC 2023"
 
