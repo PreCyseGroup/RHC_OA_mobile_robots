@@ -2,7 +2,7 @@
 
 
 # Waypoint Tracking with Obstacle Avoidance (WPT-OA) algorithm for mobile robots 
-Code developed for the work published in "C. Tiriolo, G. Franzè, W. Lucia -  A Receding Horizon Trajectory Tracking Strategy for Input-Constrained Differential-Drive Robots via Feedback Linearization - TCST 2022"
+Code developed for the work published in "C. Tiriolo, G. Franzè, W. Lucia -  An Obstacle-Avoidance Receding Horizon Control Scheme for Constrained Differential-Drive Robot via Dynamic Feedback Linearization - ACC 2023"
 
 Full paper at: https://doi.org/10.23919/ACC55779.2023.10156498
 
